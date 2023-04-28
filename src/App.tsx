@@ -1,10 +1,7 @@
+import Layout from '@/Layout/Layout'
 
 function App() {
-  return (
-    <>
-      <div className="bg-red-500">Vite Project</div>
-    </>
-  )
+  return <Layout />
 }
 
 export default App
